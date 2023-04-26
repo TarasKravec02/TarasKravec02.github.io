@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    margin: 0 100px
+}
+
+ul {
+    text-align: left;
+    font-weight: bold;
+    border: solid gray;
+    padding: 20px 30px;
+}
+
